@@ -1,8 +1,10 @@
 # Gabriel Santos Oliveira
 
-**`Estudante de Engenharia de Software | Apaixonado por tecnologia`**
+**`Software Engineering Student @ FIAP | Data Analytics | Revenue & Growth`**
 
-Me chamo Gabriel Santos Oliveira, tenho 19 anos e sou natural de **Osasco - SP**. Estou cursando Engenharia de Software na FIAP e estou construindo minha carreira na área de tecnologia desde o início. Sou apaixonado por desenvolvimento, desempenho físico e evolução pessoal. No meu tempo livre, gosto de treinar, estudar programação e me preparar para desafios como corridas e novos projetos.
+Aos 20 anos, meu foco está na intersecção entre tecnologia e negócios. Sou estudante de Engenharia de Software na FIAP, direcionando minha carreira para a análise de dados como motor de performance em Vendas e Marketing. 
+
+Acredito que dados sem contexto são apenas números; por isso, busco transformar grandes volumes de informação em insights acionáveis que impulsionam o crescimento e a eficiência operacional. No tempo livre, mantenho a disciplina com treinos e sigo em constante evolução pessoal e técnica.
 
 <p align="left">
     <a href="https://github.com/Gabsantosoli?tab=repositories&sort=stargazers">
@@ -23,53 +25,45 @@ Me chamo Gabriel Santos Oliveira, tenho 19 anos e sou natural de **Osasco - SP**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Stack & Ferramentas (Data & Backend)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Performance & Insights
 
 <p>
   <img 
@@ -82,7 +76,7 @@ Me chamo Gabriel Santos Oliveira, tenho 19 anos e sou natural de **Osasco - SP**
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsantosoli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
